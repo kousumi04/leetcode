@@ -1,0 +1,5 @@
+1. iterator needs not to be incremented manually in for loop
+2. iterator needs to be initialized first and then incremented in while loop
+3. function should always print or return smth with only one indentation
+4. use .pop() if you wanna remove by index 
+5. .remove() removes the value __ from the list.
