@@ -1,8 +1,6 @@
 class Solution:
     def sortColors(self, nums):
-        low=0
-        mid=0
-        high=len(nums)-1
+        low, mid, high=0, 0, len(nums)-1
         while mid<=high:
             if nums[mid]==0:
                 nums[low], nums[mid]=nums[mid], nums[low]
