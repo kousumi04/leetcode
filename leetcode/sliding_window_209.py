@@ -4,8 +4,9 @@ class Solution:
         low=0
         res=float('inf')
         window_sum=0
-        for high in range (n):
+        for high in range(n):
             window_sum+=nums[high]
+            # shrink window from left 
             while window_sum>=target:
                 res= min(res, high-low+1)
                 window_sum-=nums[low]
