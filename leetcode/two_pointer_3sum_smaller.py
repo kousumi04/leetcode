@@ -1,10 +1,8 @@
 class Solution:
     def countTriplets(self, sum, arr):
         arr.sort()
-        res=arr[0]+arr[1]+arr[2]
         # positive infinity
         ans=0
-        maxDiff=float('inf')
         for i in range(0, len(arr)-2):
             left=i+1 
             right=len(arr)-1 #last element
