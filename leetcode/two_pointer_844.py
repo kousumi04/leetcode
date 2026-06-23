@@ -10,11 +10,13 @@ class Solution:
                         stack.pop()
                 else:
                     stack.append(ch) #[bxj]
-                    # after '#' is found, the last element in the stack get appended
+                    '''after '#' is found, the last element in the stack get appended'''
             return "".join(stack)
         '''takes all elements of a list of strings and 
         combines them into a single string with no space.'''
-        return process(s)==process(t)                 
+        #call function for both the strings
+        return process(s)==process(t) 
+                    
 sol=Solution()
 s="bxj##tw"
 t="bxo#j##tw"
