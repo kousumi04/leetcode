@@ -7,13 +7,13 @@ class Solution:
         for high in range(n):
             freq[s[high]]=freq.get(s[high],0)+1
             '''This line updates the frequency count of the 
-            character s[right] in the dictionary freq.
-            s[right] → current character.
-            freq.get(s[right], 0) → gets the current count of that character.
+            character s[high] in the dictionary freq.
+            s[high] → current character.
+            freq.get(s[high], 0) → gets the current count of that character.
             If the character exists in freq, it returns its count.
             If it does not exist, it returns 0.
             + 1 → increases the count by 1.
-            The result is stored back in freq[s[right]].'''
+            The result is stored back in freq[s[high]].'''
             
             while len(freq)>k:
                 freq[s[low]]-=1
