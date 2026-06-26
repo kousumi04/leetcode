@@ -4,7 +4,7 @@ class Solution:
         res=0
         freq=set()
         for high in range(len(s)):
-            while s[high] in freq:
+            while s[high] in freq: #duplicate check
                 freq.remove(s[low])
                 low+=1
             freq.add(s[high])
