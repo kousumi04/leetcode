@@ -8,7 +8,7 @@ class Solution:
             if nums[right]==0:
                 zeros+=1 
                 #increments the count of zeros if present
-            while zeros>k:
+            while zeros>k: #while the no. of 0s will be >k
                 if nums[left]==0:
                     zeros-=1
                 left+=1    
