@@ -38,6 +38,19 @@ newNode.next=cur.next
 cur.next=newNode    
 
 # delete the first node
+head=head.next
 
-    
+# delete the last node
+cur=head
+while cur.next.next!=None:
+    cur=cur.next
+cur.next=None   
+
+# delete from the kth index
+k=1
+cur=head
+for i in range(k-1):
+    cur=cur.next
+cur.next=cur.next.next    
+
 printLinkedList(head)
