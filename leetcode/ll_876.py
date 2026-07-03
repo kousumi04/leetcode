@@ -19,9 +19,6 @@
 #optimized version using slow and fast pointer
 
 class Solution:
-    # def __init__(self, val=0, next=None):
-    #     self.val = val
-    #     self.next = next
     def middleNode(self, head):
         slow=head
         fast=head
