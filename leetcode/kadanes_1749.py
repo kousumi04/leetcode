@@ -14,5 +14,5 @@ class Solution:
         return res    
     
 s=Solution()
-nums=[2,-5,1,-4,3,-2]
+nums=[1,-3,2,3,-4]
 print(s.maxAbsoluteSum(nums))
