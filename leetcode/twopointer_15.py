@@ -24,6 +24,8 @@
 #                 else:
 #                     right-=1
 #         return result
+
+# method 2
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
         nums.sort()
@@ -39,10 +41,10 @@ class Solution:
                     j+=1
                     k-=1
                     # skip duplicate second element
-                    while j<k and nums[j]==nums[j-1]:
+                    while nums[j]==nums[j-1]:
                         j+=1
                     # skip duplicate third element    
-                    while j<k and nums[k]==nums[k+1]:
+                    while nums[k]==nums[k+1]:
                         k-=1
                 elif nums[i]+nums[j]+nums[k]>0:
                     k-=1
