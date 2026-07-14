@@ -46,6 +46,6 @@ class Solution:
                
           
 s=Solution()
-nums = [0, 0, 0]
-target=2
+nums = [-8, -2, 1,4,7, 10]
+target=8
 print(s.threeSumClosest(nums, target))                                
