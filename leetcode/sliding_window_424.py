@@ -21,21 +21,24 @@
 
 
 # mII-
-
 class Solution:
     def characterReplacement(self, s, k):
-        left=0
         res=0
-        maxf=0        
-        count={}
-        for right in range(len(s)):
-            count[s[right]]=count.get(s[right],0)+1
-            maxf=max(maxf, count[s[right]])
+        left=0
+        maxf=0
+        c={}
+        for right in range(len(s)): 
+            # stores the count of each character
+            c[s[right]]=c.get(s[right],0)+1
+            # stores the max of the count of the characters
+            maxf=max(maxf, c[s[right]])
+            # cond for checking window size-max freq is >k the decrement count from the left 
             while (right-left+1)-maxf>k:
-                count[s[left]]-=1
+                c[s[left]]-=1
+                # increment left
                 left+=1
-            res=max(res, right-left+1)
-        return res
+            res=max(res, right-left+1)    
+        return res    
 
 sol=Solution()
 s="ABAB"
