@@ -18,3 +18,4 @@ s=Solution()
 nums=[0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1]
 k=3
 print(s.longestOnes(nums, k))
+
