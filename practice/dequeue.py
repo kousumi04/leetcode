@@ -1,0 +1,10 @@
+from collections import deque
+lst=deque([])
+lst.append(100)
+lst.append(200)
+lst.append(300)
+lst.appendleft(9)
+lst.appendleft(1)
+print(lst)
+lst.popleft()
+print(lst)
