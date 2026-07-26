@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/kousumi04/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/kousumi04/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kousumi04/leetcode/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kousumi04/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kousumi04/leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/kousumi04/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/kousumi04/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/kousumi04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kousumi04/leetcode/tree/master/0503-next-greater-element-ii) |
