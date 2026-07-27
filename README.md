@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kousumi04/leetcode/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/kousumi04/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kousumi04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kousumi04/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kousumi04/leetcode/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/kousumi04/leetcode/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
 | ------- |
