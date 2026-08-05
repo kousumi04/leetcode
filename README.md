@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kousumi04/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kousumi04/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kousumi04/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kousumi04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/kousumi04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kousumi04/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/kousumi04/leetcode/tree/master/0682-baseball-game) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kousumi04/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kousumi04/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kousumi04/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/kousumi04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kousumi04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/kousumi04/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kousumi04/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kousumi04/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kousumi04/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/kousumi04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/kousumi04/leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kousumi04/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kousumi04/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kousumi04/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kousumi04/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/kousumi04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kousumi04/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kousumi04/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kousumi04/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/kousumi04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/kousumi04/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kousumi04/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Heap (Priority Queue)
