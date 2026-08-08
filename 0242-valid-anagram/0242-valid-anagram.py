@@ -5,12 +5,12 @@ class Solution:
         s=list(s) 
         t=list(t)
         s.sort()
-        t.sort()
-      
+        t.sort()      
         if s==t:
             return True
         else:
             return False
 
 
-            
+#top otp
+#['t','o','p'] = [o,p,t]
