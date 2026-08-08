@@ -1,12 +1,27 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        # if len(s)>len(t):
-        #     return []
-        countS =Counter(s)
-        for char in t:
-            if char not in countS:
-                return False
-            countS[char]-=1
-            if countS[char]==0:
-                del countS[char]    
-        return len(countS)==0    
+        if len(s)!=len(t):
+            return False
+        s=list(s) 
+        t=list(t)
+        s.sort()
+        t.sort()
+        freq1={}
+        freq2={}
+        for key1 in s:
+            if key1 in freq1.keys():
+                freq1[key1]+=1
+            else:
+                freq1[key1]=1
+        for key2 in t:
+            if key2 in freq2.keys():
+                freq2[key2]+=1
+            else:
+                freq2[key2]=1
+        if freq1==freq2:
+            return True
+        else:
+            return False
+
+
+            
