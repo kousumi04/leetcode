@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kousumi04/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kousumi04/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kousumi04/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/kousumi04/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kousumi04/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kousumi04/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kousumi04/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kousumi04/leetcode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/kousumi04/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kousumi04/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kousumi04/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kousumi04/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kousumi04/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kousumi04/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kousumi04/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kousumi04/leetcode/tree/master/0242-valid-anagram) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kousumi04/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/kousumi04/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kousumi04/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/kousumi04/leetcode/tree/master/0427-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/kousumi04/leetcode/tree/master/0912-sort-an-array) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kousumi04/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/kousumi04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
@@ -317,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kousumi04/leetcode/tree/master/0014-longest-common-prefix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kousumi04/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
