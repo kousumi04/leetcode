@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kousumi04/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/kousumi04/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kousumi04/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/kousumi04/leetcode/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/kousumi04/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/kousumi04/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/kousumi04/leetcode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/kousumi04/leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/kousumi04/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kousumi04/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kousumi04/leetcode/tree/master/0344-reverse-string) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/kousumi04/leetcode/tree/master/0143-reorder-list) |
 | [0705-design-hashset](https://github.com/kousumi04/leetcode/tree/master/0705-design-hashset) |
 ## Greedy
 |  |
