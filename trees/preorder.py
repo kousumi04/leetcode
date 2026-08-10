@@ -31,3 +31,4 @@ def preorder_trav(node):
     preorder_trav(node.left)
     preorder_trav(node.right)
 preorder_trav(five)        
+#1+[1] = error ; []+[1]=[1]
