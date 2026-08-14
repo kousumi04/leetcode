@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kousumi04/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kousumi04/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/kousumi04/leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kousumi04/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kousumi04/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/kousumi04/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/kousumi04/leetcode/tree/master/0169-majority-element) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kousumi04/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/kousumi04/leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kousumi04/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/kousumi04/leetcode/tree/master/0143-reorder-list) |
 | [0705-design-hashset](https://github.com/kousumi04/leetcode/tree/master/0705-design-hashset) |
 ## Greedy
@@ -365,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kousumi04/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kousumi04/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
