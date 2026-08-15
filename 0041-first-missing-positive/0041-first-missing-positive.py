@@ -1,4 +1,5 @@
 class Solution:
+    # first missing +ve number
     def firstMissingPositive(self, nums: List[int]) -> int:
         n=len(nums)
         for i in range(n):
