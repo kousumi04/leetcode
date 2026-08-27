@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kousumi04/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kousumi04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kousumi04/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kousumi04/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/kousumi04/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kousumi04/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kousumi04/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Tournament Sort
 |  |
 | ------- |
