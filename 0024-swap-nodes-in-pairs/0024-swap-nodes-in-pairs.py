@@ -7,8 +7,6 @@ class Solution:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head or not head.next:
             return head
-        if not head or not head.next:
-            return head
         dummy = ListNode(0)
         dummy.next = head
         prev = dummy
