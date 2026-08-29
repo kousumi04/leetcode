@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kousumi04/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kousumi04/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/kousumi04/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousumi04/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/kousumi04/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kousumi04/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/kousumi04/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kousumi04/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/kousumi04/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/kousumi04/leetcode/tree/master/0217-contains-duplicate) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/kousumi04/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kousumi04/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kousumi04/leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/kousumi04/leetcode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/kousumi04/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/kousumi04/leetcode/tree/master/0705-design-hashset) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kousumi04/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -433,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kousumi04/leetcode/tree/master/0141-linked-list-cycle) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kousumi04/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
