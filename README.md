@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kousumi04/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/kousumi04/leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kousumi04/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1472-design-browser-history](https://github.com/kousumi04/leetcode/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kousumi04/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kousumi04/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/kousumi04/leetcode/tree/master/0705-design-hashset) |
+| [1472-design-browser-history](https://github.com/kousumi04/leetcode/tree/master/1472-design-browser-history) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/kousumi04/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kousumi04/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kousumi04/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/kousumi04/leetcode/tree/master/1472-design-browser-history) |
 | [1929-concatenation-of-array](https://github.com/kousumi04/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kousumi04/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kousumi04/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/kousumi04/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/kousumi04/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/kousumi04/leetcode/tree/master/0705-design-hashset) |
+| [1472-design-browser-history](https://github.com/kousumi04/leetcode/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kousumi04/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -453,4 +457,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kousumi04/leetcode/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/kousumi04/leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/kousumi04/leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
