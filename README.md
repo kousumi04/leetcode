@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kousumi04/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/kousumi04/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/kousumi04/leetcode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/kousumi04/leetcode/tree/master/0542-01-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kousumi04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kousumi04/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kousumi04/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/kousumi04/leetcode/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/kousumi04/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/kousumi04/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kousumi04/leetcode/tree/master/0705-design-hashset) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kousumi04/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0427-construct-quad-tree](https://github.com/kousumi04/leetcode/tree/master/0427-construct-quad-tree) |
+| [0542-01-matrix](https://github.com/kousumi04/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/kousumi04/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/kousumi04/leetcode/tree/master/0994-rotting-oranges) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kousumi04/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kousumi04/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/kousumi04/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/kousumi04/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kousumi04/leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kousumi04/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
