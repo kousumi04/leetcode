@@ -1,18 +1,22 @@
 class Solution:
+    def dfs(self, i, j, new_color, initial_color, visited, r, c):
+            # base conditions
+            if i<0 or i>=r or j<0 or j>=c:
+                return
+            if visited[i][j]!=initial_color:
+                return
+            if visited[i][j]==new_color:
+                return
+            visited[i][j]=new_color
+            self.dfs(i+1, j, new_color, initial_color, visited, r, c ) #down
+            self.dfs(i, j-1, new_color, initial_color, visited, r, c) #left
+            self.dfs(i-1, j, new_color, initial_color, visited, r, c) #up
+            self.dfs(i, j+1, new_color, initial_color, visited, r, c) #right
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-        m, n=len(image), len(image[0])
-        cur_color=image[sr][sc]
-        if cur_color==color:
+        if image[sr][sc]==color:
             return image
-        cur=[[sr, sc]]    
-        image[sr][sc]=color
-        while cur:
-            new_layer=[]
-            for r,c in cur:
-                check=[(r+1,c),(r-1,c), (r,c+1), (r, c-1)]
-                for cr, cc in check:
-                    if cr>=0 and cc>=0 and cr<m and cc<n and image[cr][cc]==cur_color:
-                        image[cr][cc]=color
-                        new_layer.append((cr, cc))
-            cur=new_layer           
-        return image     
+        visited=deepcopy(image)
+        r, c=len(visited), len(visited[0])
+        initial_color=visited[sr][sc]
+        self.dfs(sr, sc, color, initial_color, visited, r, c)
+        return visited
