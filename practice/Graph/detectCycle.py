@@ -1,5 +1,5 @@
 from collections import deque
-
+# using BFS
 class Solution:
     def isCycle(self, V, edges):
         queue = deque()
