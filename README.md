@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kousumi04/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kousumi04/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kousumi04/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/kousumi04/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kousumi04/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kousumi04/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kousumi04/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kousumi04/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/kousumi04/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/kousumi04/leetcode/tree/master/0200-number-of-islands) |
 | [0427-construct-quad-tree](https://github.com/kousumi04/leetcode/tree/master/0427-construct-quad-tree) |
 | [0542-01-matrix](https://github.com/kousumi04/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kousumi04/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kousumi04/leetcode/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousumi04/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/kousumi04/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kousumi04/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kousumi04/leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/kousumi04/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/kousumi04/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kousumi04/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kousumi04/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kousumi04/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/kousumi04/leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -491,4 +495,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/kousumi04/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/kousumi04/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
