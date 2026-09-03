@@ -18,7 +18,7 @@ class Solution:
             for c in range(cols):
                 if r==0 or c==0 or r==rows-1 or c==cols-1:
                     if board[r][c]=="O":
-                        visited[r][c]==0
+                        visited[r][c]=0
                         self.dfs(r,c,visited,rows, cols, board)
         for r in range(rows):
             for c in range(cols):
