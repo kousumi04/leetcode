@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kousumi04/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kousumi04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0677-map-sum-pairs](https://github.com/kousumi04/leetcode/tree/master/0677-map-sum-pairs) |
+| [0763-partition-labels](https://github.com/kousumi04/leetcode/tree/master/0763-partition-labels) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kousumi04/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1268-search-suggestions-system](https://github.com/kousumi04/leetcode/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kousumi04/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kousumi04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0677-map-sum-pairs](https://github.com/kousumi04/leetcode/tree/master/0677-map-sum-pairs) |
 | [0705-design-hashset](https://github.com/kousumi04/leetcode/tree/master/0705-design-hashset) |
+| [0763-partition-labels](https://github.com/kousumi04/leetcode/tree/master/0763-partition-labels) |
 | [2418-sort-the-people](https://github.com/kousumi04/leetcode/tree/master/2418-sort-the-people) |
 ## Monotonic Stack
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kousumi04/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kousumi04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kousumi04/leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/kousumi04/leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/kousumi04/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/kousumi04/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/kousumi04/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kousumi04/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kousumi04/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/kousumi04/leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/kousumi04/leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/kousumi04/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/kousumi04/leetcode/tree/master/0881-boats-to-save-people) |
 ## Timsort
