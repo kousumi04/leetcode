@@ -1,5 +1,8 @@
 class Solution:
     def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
+        result=[]
         people=list(zip(heights, names))
         people.sort(reverse=True)
-        return[ name for height, name in people]
+        for height, name in people:
+            result.append(name)
+        return result
