@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kousumi04/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/kousumi04/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kousumi04/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/kousumi04/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kousumi04/leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/kousumi04/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kousumi04/leetcode/tree/master/0542-01-matrix) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kousumi04/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kousumi04/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kousumi04/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/kousumi04/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kousumi04/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/kousumi04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0427-construct-quad-tree](https://github.com/kousumi04/leetcode/tree/master/0427-construct-quad-tree) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kousumi04/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kousumi04/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kousumi04/leetcode/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/kousumi04/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/kousumi04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kousumi04/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kousumi04/leetcode/tree/master/0704-binary-search) |
@@ -571,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kousumi04/leetcode/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/kousumi04/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
