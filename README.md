@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/kousumi04/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kousumi04/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2418-sort-the-people](https://github.com/kousumi04/leetcode/tree/master/2418-sort-the-people) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/kousumi04/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/kousumi04/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/kousumi04/leetcode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/kousumi04/leetcode/tree/master/1034-coloring-a-border) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/kousumi04/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/kousumi04/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/kousumi04/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kousumi04/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/kousumi04/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/kousumi04/leetcode/tree/master/1034-coloring-a-border) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/kousumi04/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kousumi04/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/kousumi04/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kousumi04/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kousumi04/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kousumi04/leetcode/tree/master/0695-max-area-of-island) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/kousumi04/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
