@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/kousumi04/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kousumi04/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/kousumi04/leetcode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/kousumi04/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kousumi04/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kousumi04/leetcode/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/kousumi04/leetcode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/kousumi04/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/kousumi04/leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/kousumi04/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/kousumi04/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/kousumi04/leetcode/tree/master/0994-rotting-oranges) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kousumi04/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kousumi04/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kousumi04/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/kousumi04/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/kousumi04/leetcode/tree/master/0841-keys-and-rooms) |
 | [1034-coloring-a-border](https://github.com/kousumi04/leetcode/tree/master/1034-coloring-a-border) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/kousumi04/leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/kousumi04/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/kousumi04/leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/kousumi04/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/kousumi04/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/kousumi04/leetcode/tree/master/0994-rotting-oranges) |
@@ -582,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kousumi04/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kousumi04/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kousumi04/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/kousumi04/leetcode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
