@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kousumi04/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/kousumi04/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/kousumi04/leetcode/tree/master/0997-find-the-town-judge) |
+| [1034-coloring-a-border](https://github.com/kousumi04/leetcode/tree/master/1034-coloring-a-border) |
 | [1268-search-suggestions-system](https://github.com/kousumi04/leetcode/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kousumi04/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/kousumi04/leetcode/tree/master/1472-design-browser-history) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/kousumi04/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/kousumi04/leetcode/tree/master/0994-rotting-oranges) |
+| [1034-coloring-a-border](https://github.com/kousumi04/leetcode/tree/master/1034-coloring-a-border) |
 ## Counting
 |  |
 | ------- |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kousumi04/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/kousumi04/leetcode/tree/master/0841-keys-and-rooms) |
+| [1034-coloring-a-border](https://github.com/kousumi04/leetcode/tree/master/1034-coloring-a-border) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/kousumi04/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/kousumi04/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/kousumi04/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/kousumi04/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/kousumi04/leetcode/tree/master/0994-rotting-oranges) |
+| [1034-coloring-a-border](https://github.com/kousumi04/leetcode/tree/master/1034-coloring-a-border) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/kousumi04/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kousumi04/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
