@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kousumi04/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kousumi04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0677-map-sum-pairs](https://github.com/kousumi04/leetcode/tree/master/0677-map-sum-pairs) |
+| [0752-open-the-lock](https://github.com/kousumi04/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/kousumi04/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/kousumi04/leetcode/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/kousumi04/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/kousumi04/leetcode/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kousumi04/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0752-open-the-lock](https://github.com/kousumi04/leetcode/tree/master/0752-open-the-lock) |
 | [0860-lemonade-change](https://github.com/kousumi04/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/kousumi04/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/kousumi04/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kousumi04/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0677-map-sum-pairs](https://github.com/kousumi04/leetcode/tree/master/0677-map-sum-pairs) |
 | [0705-design-hashset](https://github.com/kousumi04/leetcode/tree/master/0705-design-hashset) |
+| [0752-open-the-lock](https://github.com/kousumi04/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/kousumi04/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/kousumi04/leetcode/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/kousumi04/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/kousumi04/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/kousumi04/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/kousumi04/leetcode/tree/master/0752-open-the-lock) |
 | [0841-keys-and-rooms](https://github.com/kousumi04/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/kousumi04/leetcode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/kousumi04/leetcode/tree/master/1034-coloring-a-border) |
@@ -639,4 +643,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kousumi04/leetcode/tree/master/0139-word-break) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/kousumi04/leetcode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
