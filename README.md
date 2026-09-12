@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kousumi04/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/kousumi04/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/kousumi04/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kousumi04/leetcode/tree/master/0841-keys-and-rooms) |
 | [1034-coloring-a-border](https://github.com/kousumi04/leetcode/tree/master/1034-coloring-a-border) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/kousumi04/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kousumi04/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/kousumi04/leetcode/tree/master/0752-open-the-lock) |
+| [0785-is-graph-bipartite](https://github.com/kousumi04/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kousumi04/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/kousumi04/leetcode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/kousumi04/leetcode/tree/master/1034-coloring-a-border) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kousumi04/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kousumi04/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kousumi04/leetcode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/kousumi04/leetcode/tree/master/0785-is-graph-bipartite) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kousumi04/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/kousumi04/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/kousumi04/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kousumi04/leetcode/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/kousumi04/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kousumi04/leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/kousumi04/leetcode/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
@@ -655,4 +659,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kousumi04/leetcode/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/kousumi04/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/kousumi04/leetcode/tree/master/0752-open-the-lock) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/kousumi04/leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/kousumi04/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
