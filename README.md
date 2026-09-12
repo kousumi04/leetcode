@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kousumi04/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kousumi04/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kousumi04/leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/kousumi04/leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/kousumi04/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/kousumi04/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousumi04/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kousumi04/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/kousumi04/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/kousumi04/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kousumi04/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/kousumi04/leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kousumi04/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kousumi04/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kousumi04/leetcode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/kousumi04/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kousumi04/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/kousumi04/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/kousumi04/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -646,5 +649,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/kousumi04/leetcode/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/kousumi04/leetcode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
