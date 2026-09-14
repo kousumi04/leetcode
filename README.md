@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kousumi04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/kousumi04/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0677-map-sum-pairs](https://github.com/kousumi04/leetcode/tree/master/0677-map-sum-pairs) |
+| [0721-accounts-merge](https://github.com/kousumi04/leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/kousumi04/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/kousumi04/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/kousumi04/leetcode/tree/master/0767-reorganize-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kousumi04/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kousumi04/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kousumi04/leetcode/tree/master/0705-design-hashset) |
+| [0721-accounts-merge](https://github.com/kousumi04/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kousumi04/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/kousumi04/leetcode/tree/master/0752-open-the-lock) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kousumi04/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0677-map-sum-pairs](https://github.com/kousumi04/leetcode/tree/master/0677-map-sum-pairs) |
 | [0705-design-hashset](https://github.com/kousumi04/leetcode/tree/master/0705-design-hashset) |
+| [0721-accounts-merge](https://github.com/kousumi04/leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/kousumi04/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/kousumi04/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/kousumi04/leetcode/tree/master/0767-reorganize-string) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kousumi04/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kousumi04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kousumi04/leetcode/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/kousumi04/leetcode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/kousumi04/leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/kousumi04/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/kousumi04/leetcode/tree/master/0912-sort-an-array) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/kousumi04/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kousumi04/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/kousumi04/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/kousumi04/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/kousumi04/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/kousumi04/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -453,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/kousumi04/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/kousumi04/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/kousumi04/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/kousumi04/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kousumi04/leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/kousumi04/leetcode/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/kousumi04/leetcode/tree/master/0785-is-graph-bipartite) |
@@ -621,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kousumi04/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kousumi04/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kousumi04/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/kousumi04/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/kousumi04/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kousumi04/leetcode/tree/master/1020-number-of-enclaves) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kousumi04/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
