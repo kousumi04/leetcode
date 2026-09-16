@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kousumi04/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/kousumi04/leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/kousumi04/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/kousumi04/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kousumi04/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kousumi04/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kousumi04/leetcode/tree/master/0136-single-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kousumi04/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kousumi04/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kousumi04/leetcode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kousumi04/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
