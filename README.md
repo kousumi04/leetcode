@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kousumi04/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kousumi04/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kousumi04/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kousumi04/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kousumi04/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kousumi04/leetcode/tree/master/0127-word-ladder) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kousumi04/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/kousumi04/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kousumi04/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kousumi04/leetcode/tree/master/0070-climbing-stairs) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kousumi04/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/kousumi04/leetcode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kousumi04/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -714,4 +717,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kousumi04/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kousumi04/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
