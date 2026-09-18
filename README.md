@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kousumi04/leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/kousumi04/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kousumi04/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kousumi04/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/kousumi04/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kousumi04/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/kousumi04/leetcode/tree/master/0055-jump-game) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/kousumi04/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kousumi04/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kousumi04/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kousumi04/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kousumi04/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kousumi04/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kousumi04/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kousumi04/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/kousumi04/leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/kousumi04/leetcode/tree/master/0216-combination-sum-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kousumi04/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
