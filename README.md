@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kousumi04/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/kousumi04/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousumi04/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/kousumi04/leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/kousumi04/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kousumi04/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/kousumi04/leetcode/tree/master/0344-reverse-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kousumi04/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kousumi04/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/kousumi04/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/kousumi04/leetcode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/kousumi04/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kousumi04/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/kousumi04/leetcode/tree/master/0216-combination-sum-iii) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kousumi04/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kousumi04/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kousumi04/leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/kousumi04/leetcode/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kousumi04/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/kousumi04/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/kousumi04/leetcode/tree/master/0427-construct-quad-tree) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kousumi04/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/kousumi04/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousumi04/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/kousumi04/leetcode/tree/master/0212-word-search-ii) |
 | [0677-map-sum-pairs](https://github.com/kousumi04/leetcode/tree/master/0677-map-sum-pairs) |
 | [1268-search-suggestions-system](https://github.com/kousumi04/leetcode/tree/master/1268-search-suggestions-system) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -730,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kousumi04/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kousumi04/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kousumi04/leetcode/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/kousumi04/leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/kousumi04/leetcode/tree/master/0216-combination-sum-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kousumi04/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
