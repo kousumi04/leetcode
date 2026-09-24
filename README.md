@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kousumi04/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kousumi04/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kousumi04/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/kousumi04/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2418-sort-the-people](https://github.com/kousumi04/leetcode/tree/master/2418-sort-the-people) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kousumi04/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/kousumi04/leetcode/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/kousumi04/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/kousumi04/leetcode/tree/master/0997-find-the-town-judge) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/kousumi04/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2418-sort-the-people](https://github.com/kousumi04/leetcode/tree/master/2418-sort-the-people) |
 ## Monotonic Stack
 |  |
