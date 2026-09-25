@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kousumi04/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/kousumi04/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/kousumi04/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kousumi04/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kousumi04/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kousumi04/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kousumi04/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kousumi04/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kousumi04/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/kousumi04/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kousumi04/leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/kousumi04/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kousumi04/leetcode/tree/master/0078-subsets) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kousumi04/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kousumi04/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/kousumi04/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kousumi04/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/kousumi04/leetcode/tree/master/0169-majority-element) |
