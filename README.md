@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/kousumi04/leetcode/tree/master/0427-construct-quad-tree) |
 | [0455-assign-cookies](https://github.com/kousumi04/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/kousumi04/leetcode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/kousumi04/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/kousumi04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kousumi04/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kousumi04/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
