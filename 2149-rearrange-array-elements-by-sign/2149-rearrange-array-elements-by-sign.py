@@ -9,10 +9,10 @@ class Solution:
                 pos.append(i)
         n, p=len(neg), len(pos)
         j=0
-        while j<len(neg) or j<len(pos):
-            if j<len(pos):
+        while j<n or j<p:
+            if j<p:
                 res.append(pos[j])
-            if j<len(neg):
+            if j<n:
                 res.append(neg[j])    
             j+=1
         return res            
