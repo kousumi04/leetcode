@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kousumi04/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kousumi04/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kousumi04/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kousumi04/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/kousumi04/leetcode/tree/master/0509-fibonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kousumi04/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kousumi04/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/kousumi04/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/kousumi04/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/kousumi04/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kousumi04/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/kousumi04/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kousumi04/leetcode/tree/master/0322-coin-change) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kousumi04/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kousumi04/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kousumi04/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kousumi04/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kousumi04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kousumi04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/kousumi04/leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kousumi04/leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/kousumi04/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/kousumi04/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kousumi04/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kousumi04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kousumi04/leetcode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/kousumi04/leetcode/tree/master/0721-accounts-merge) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kousumi04/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kousumi04/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kousumi04/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/kousumi04/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kousumi04/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/kousumi04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kousumi04/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -360,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kousumi04/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kousumi04/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kousumi04/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kousumi04/leetcode/tree/master/0268-missing-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kousumi04/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kousumi04/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kousumi04/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
