@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/kousumi04/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/kousumi04/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/kousumi04/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/kousumi04/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kousumi04/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kousumi04/leetcode/tree/master/0189-rotate-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kousumi04/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kousumi04/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/kousumi04/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/kousumi04/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/kousumi04/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/kousumi04/leetcode/tree/master/0234-palindrome-linked-list) |
