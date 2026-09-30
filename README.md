@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/kousumi04/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kousumi04/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kousumi04/leetcode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/kousumi04/leetcode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/kousumi04/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kousumi04/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/kousumi04/leetcode/tree/master/1472-design-browser-history) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kousumi04/leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kousumi04/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/kousumi04/leetcode/tree/master/0752-open-the-lock) |
+| [0853-car-fleet](https://github.com/kousumi04/leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/kousumi04/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/kousumi04/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/kousumi04/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kousumi04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kousumi04/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kousumi04/leetcode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/kousumi04/leetcode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/kousumi04/leetcode/tree/master/0901-online-stock-span) |
 ## Sorting
 |  |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kousumi04/leetcode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/kousumi04/leetcode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/kousumi04/leetcode/tree/master/0767-reorganize-string) |
+| [0853-car-fleet](https://github.com/kousumi04/leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/kousumi04/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/kousumi04/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kousumi04/leetcode/tree/master/0977-squares-of-a-sorted-array) |
