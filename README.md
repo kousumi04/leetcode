@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/kousumi04/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kousumi04/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/kousumi04/leetcode/tree/master/2418-sort-the-people) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/kousumi04/leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/kousumi04/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kousumi04/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/kousumi04/leetcode/tree/master/1472-design-browser-history) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/kousumi04/leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Design
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kousumi04/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kousumi04/leetcode/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kousumi04/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/kousumi04/leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Recursion
 |  |
 | ------- |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/kousumi04/leetcode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/kousumi04/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/kousumi04/leetcode/tree/master/0881-boats-to-save-people) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/kousumi04/leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Timsort
 |  |
 | ------- |
