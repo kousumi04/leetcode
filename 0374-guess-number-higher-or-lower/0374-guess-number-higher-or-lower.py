@@ -7,9 +7,9 @@
 
 class Solution:
     def guessNumber(self, n: int) -> int:
-        low=0
+        low=1
         high=n
-        while low<=high:
+        while low<high:
             mid=low+(high-low)//2
             res=guess(mid)
             if res==0:
