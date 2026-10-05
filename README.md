@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/kousumi04/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2418-sort-the-people](https://github.com/kousumi04/leetcode/tree/master/2418-sort-the-people) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kousumi04/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2733-neither-minimum-nor-maximum](https://github.com/kousumi04/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/kousumi04/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kousumi04/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/kousumi04/leetcode/tree/master/2418-sort-the-people) |
+| [2733-neither-minimum-nor-maximum](https://github.com/kousumi04/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Two Pointers
 |  |
 | ------- |
