@@ -5,6 +5,4 @@ class Solution:
         for h in hours:
             if h>=target:
                 count+=1
-            else:
-                continue
         return count            
