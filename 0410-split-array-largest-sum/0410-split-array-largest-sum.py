@@ -11,6 +11,7 @@ class Solution:
             return subArray+1<=k     
         l=max(nums)
         r=sum(nums)
+        res=r
         while l<=r:
             mid=l+((r-l)//2)
             if canSplit(mid):
