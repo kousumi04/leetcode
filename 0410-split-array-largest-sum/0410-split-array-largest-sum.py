@@ -1,22 +1,21 @@
 class Solution:
     def splitArray(self, nums: list[int], k:int) -> int:
-        def canSplit(largest):
-            subArray=0
+        def canSplit(limit):
+            count=1
             curSum=0
             for n in nums:
-                curSum+=n
-                if curSum>largest:
-                    subArray+=1
+                if curSum+n>limit:
+                    count+=1
                     curSum=n
-            return subArray+1<=k     
+                else:
+                    curSum+=n    
+            return count<=k     
         l=max(nums)
         r=sum(nums)
-        res=r
-        while l<=r:
-            mid=l+((r-l)//2)
+        while l<r:
+            mid=(l+r)//2
             if canSplit(mid):
-                res=mid
-                r=mid-1
+                r=mid
             else:
                 l=mid+1
-        return res
+        return r
