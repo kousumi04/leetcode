@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/kousumi04/leetcode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/kousumi04/leetcode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/kousumi04/leetcode/tree/master/1034-coloring-a-border) |
+| [1095-find-in-mountain-array](https://github.com/kousumi04/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1268-search-suggestions-system](https://github.com/kousumi04/leetcode/tree/master/1268-search-suggestions-system) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kousumi04/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kousumi04/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/kousumi04/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kousumi04/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/kousumi04/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1095-find-in-mountain-array](https://github.com/kousumi04/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1268-search-suggestions-system](https://github.com/kousumi04/leetcode/tree/master/1268-search-suggestions-system) |
 ## Heap (Priority Queue)
 |  |
@@ -899,8 +901,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kousumi04/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/kousumi04/leetcode/tree/master/1095-find-in-mountain-array) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kousumi04/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/kousumi04/leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
