@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from collections import deque
+
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         if root==None:
