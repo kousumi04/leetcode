@@ -16,7 +16,7 @@ class Solution:
                 l=mid+1
             else:
                 r=mid    
-
+        #find peak
         peak=l
         l, r=0, peak
         while l<=r:
