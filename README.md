@@ -907,4 +907,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kousumi04/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/kousumi04/leetcode/tree/master/1095-find-in-mountain-array) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kousumi04/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kousumi04/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
