@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kousumi04/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kousumi04/leetcode/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kousumi04/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kousumi04/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/kousumi04/leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Recursion
 |  |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/kousumi04/leetcode/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kousumi04/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/kousumi04/leetcode/tree/master/1462-course-schedule-iv) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kousumi04/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kousumi04/leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/kousumi04/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/kousumi04/leetcode/tree/master/1462-course-schedule-iv) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kousumi04/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -932,4 +935,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kousumi04/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kousumi04/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kousumi04/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
