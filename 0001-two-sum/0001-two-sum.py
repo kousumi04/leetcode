@@ -5,4 +5,5 @@ class Solution:
             complement=target-nums[i]
             if complement in seen:
                 return (seen[complement], i)
+                break
             seen[nums[i]]=i      
