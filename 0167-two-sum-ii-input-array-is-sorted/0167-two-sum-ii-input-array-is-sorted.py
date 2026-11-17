@@ -9,5 +9,5 @@ class Solution:
             elif s<target:
                 i+=1
             else:
-                return (i+1,j+1)    
+                return [i+1,j+1]    
         return -1            
